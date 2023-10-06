@@ -1,6 +1,6 @@
-### Olá, Eu sou Leonardo Menezes1  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+### Olá, Me chamo Leonardo Menezes  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-- 🌱 Estudando JavaScript                        
+- 🌱 Atualmente estudando JavaScript, Java, Bootstrap, HTML e CSS                   
 - 📫 Contate-me no email: leonardomenezes48147@gmail.com
 - 😄 Pronouns: ele/dele
 
