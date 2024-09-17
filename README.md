@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estudando JavaScript, Java, Bootstrap, HTML e CSS                   
 - 📫 Contate-me no email: leonardomenezes48147@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <h2>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
