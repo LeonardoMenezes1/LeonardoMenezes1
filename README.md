@@ -1,6 +1,6 @@
 ### Olá, Me chamo Leonardo Menezes  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-- 🌱 Atualmente estudando JavaScript, Java, Bootstrap, HTML e CSS                   
+- 🌱 Atualmente estudando JavaScript, Java, Bootstrap, HTML, CSS, Git, GitHub                  
 - 📫 Contate-me no email: leonardomenezes48147@gmail.com
 - 😄 Pronomes: ele/dele
 
